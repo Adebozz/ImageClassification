@@ -2,5 +2,6 @@
 /logs
 /.ipynb_checkpoints
 /.models
-/.SKC
+/SKC
 /SKCD
+/skin-lesion-analysis-towards-melanoma-detection
