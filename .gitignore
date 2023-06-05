@@ -1,6 +1,7 @@
 /started
 /logs
 /.ipynb_checkpoints
+<<<<<<< HEAD
 /datas
 /models
 /happy
@@ -8,3 +9,9 @@
 /dog.jpeg
 /train
 /SKCD
+=======
+/.models
+/SKC
+/SKCD
+/skin-lesion-analysis-towards-melanoma-detection
+>>>>>>> db772e5a8a3958efabd8e0ebc47fa27fa2441114
